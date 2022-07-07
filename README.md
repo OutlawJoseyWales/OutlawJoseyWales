@@ -8,9 +8,7 @@ Anything Blockchain related, especially DeFi.
 
 
 
-- 📫 How to reach me ...
-email: michael.mndz@protonmail.com
-website: michaelmendez.crypto (requires an IPFS compatible browser)
+
 
 <!---
 OutlawJoseyWales/OutlawJoseyWales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
