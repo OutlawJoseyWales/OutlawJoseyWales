@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @OutlawJoseyWales
 - 👀 I’m interested in ...
-Blockchain development, startups, DeFi, Web3, and Ethereum.
-- 🌱 I’m currently learning ...
-Web3 and Solidity.
-- 💞️ I’m looking to collaborate on ...
-Anything Blockchain related, especially DeFi. 
+Blockchain development, Startups, Defence and Aerospace, and Photography
+
 
 
 
